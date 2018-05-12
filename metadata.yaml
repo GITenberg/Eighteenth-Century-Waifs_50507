@@ -1,4 +1,8 @@
 _repo: Eighteenth-Century-Waifs_50507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50507-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Ashton, John
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '9006'
     url: http://www.gutenberg.org/2009/agents/9006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50507#Eighteenth-Century-Waifs
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
